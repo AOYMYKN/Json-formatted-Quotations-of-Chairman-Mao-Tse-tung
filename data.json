@@ -2113,11 +2113,11 @@
 		},
 		{
 			"cn_title": "团结",
-			"en_title": "UNITY国家的统一，人民的团结，国内各民族的团结，这是我们的事业必定要胜利的基本保证。",
+			"en_title": "UNITY",
 			"items": [{
-					"cn_content": "The unification of our country, the unity of our people and the unity of our various nationalities - these are the basic guarantees of the sure triumph of our cause.\n",
-					"en_content": "",
-					"cn_ref": "",
+					"cn_content": "国家的统一，人民的团结，国内各民族的团结，这是我们的事业必定要胜利的基本保证。\n",
+					"en_content": "The unification of our country, the unity of our people and the unity of our various nationalities - these are the basic guarantees of the sure triumph of our cause.\n",
+					"cn_ref": "《关于正确处理人民内部矛盾的问题》（一九五七年二月二十七日），人民出版社版第一页",
 					"en_ref": "\"On the Correct Handling of Contradictions Among the People\" (February 27, 1957). 1st pocket ed., pp. 1-2."
 				},
 				{
